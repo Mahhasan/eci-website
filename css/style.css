@@ -698,7 +698,7 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
 .navigation > li > a {
   padding: 48px 18px;
   text-transform: uppercase;
-  color: #333;
+  color: #111111;
   display: inline-block;
   text-decoration: none;
   font-family: 'Hind', sans-serif;
@@ -733,14 +733,14 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
   display: block;
 }
 
-.navigation > li > ul > li > a {width: 100%;background: none;padding: 10px 25px 10px 22px;color: #888;text-decoration: none;display: inline-block;float: left;clear: both;position: relative;outline: 0;position: relative;padding: 8px 30px;color: #848484;-webkit-transition: .5s ease-in-out;transition: .5s ease-in-out;font-size: 14px;}
+.navigation > li > ul > li > a {width: 100%;background: none;padding: 10px 25px 10px 22px;color: #ffffff;text-decoration: none;display: inline-block;float: left;clear: both;position: relative;outline: 0;position: relative;padding: 8px 30px;color: #ffffff;-webkit-transition: .5s ease-in-out;transition: .5s ease-in-out;font-size: 14px;}
 
 .navigation > li > ul > li > a:before {
     position: absolute;
     left: 30px;
     top: 15px;
     font-size: 10px;
-    color: #848484;
+    color: #ffffff;
     content: "\f192";
     font-family: FontAwesome;
     -webkit-transition: .5s ease;
